@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external-1580000165-1667351598303
+  name: Spring 2022 Course
+  url: https://underactuated.mit.edu/Spring2022/
+  weight: 10
+- identifier: external--45492612-1667351589232
+  name: Online Textbook
+  url: http://underactuated.csail.mit.edu/
+  weight: 20
